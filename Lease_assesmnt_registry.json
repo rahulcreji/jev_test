@@ -1,0 +1,261 @@
+{
+    "1.1": {
+        "title": "Scope and scope exceptions (updated July 2024)",
+        "highlights": [
+            "ASC 842 applies to all leases of property, plant, and equipment, including subleases, but excludes leases of intangible assets, biological assets, inventory, and assets under construction.",
+            "Leases related to the exploration or use of minerals, oil, natural gas, and similar resources are excluded from ASC 842, except for equipment used in exploration.",
+            "Inventory is defined as tangible personal property held for sale, in production, or to be consumed in production, excluding long-term assets subject to depreciation.",
+            "Media and entertainment companies must evaluate if the use of equipment or facilities for film or TV production constitutes a lease under ASC 842, despite typically accounting for such costs under ASC 926."
+        ],
+        "sub_sections": {
+            "1.1.1": {
+                "title": "Service concession arrangements",
+                "highlights": [
+                    "Service concession arrangements involve agreements where an operating entity manages the infrastructure of a grantor, such as airports or roads.",
+                    "These arrangements fall under ASC 853 and are explicitly excluded from the scope of ASC 842, which covers lease accounting.",
+                    "Entities must first determine if ASC 853 applies to their arrangement before considering lease evaluation under ASC 842.",
+                    "Further details on service concession arrangements can be found in section 1.8 of the document."
+                ]
+            },
+            "1.1.2": {
+                "title": "Applicability to federal, state and local governmental units (updated July 2024)",
+                "highlights": [
+                    "GASB Statement No. 87 applies to state and local governments, establishing a single approach for lease accounting based on the concept of financing the right to use an asset. It covers nonfinancial assets like vehicles and buildings but excludes nonexchange transactions and intangible assets.",
+                    "SFFAS 54 provides lease accounting guidance for federal government entities, addressing both lessors and lessees.",
+                    "The guidance under GASB 87 does not apply to donated assets or leases of intangible assets such as patents and software licenses.",
+                    "For further details on federal lease accounting, reference is made to a Technical Line document that discusses the requirements for federal lessors and lessees."
+                ]
+            },
+            "1.1.3": {
+                "title": "Land easements",
+                "highlights": [
+                    "Land easements grant rights to use, access, or cross another's land for specific purposes, such as constructing pipelines or telecommunication cables, and can be perpetual or term-based, exclusive or nonexclusive, and prepaid or paid over time.",
+                    "Perpetual easements are excluded from ASC 842 as they do not meet the lease definition requiring a time period. Long-term contracts, even those appearing perpetual, may fall under ASC 842 if they have a defined term or automatic renewals.",
+                    "To determine if a land easement is a lease, entities must assess if there is an identified asset and if the customer can direct its use and obtain substantial economic benefits from it.",
+                    "Illustrations show that if a company can restrict access and control the use of the land easement, it constitutes a lease under ASC 842; otherwise, it does not."
+                ]
+            },
+            "1.1.4": {
+                "title": "Sales with repurchase options",
+                "highlights": [
+                    "Repurchase provisions in sales contracts can affect the application of ASC 606's guidance on control transfer, potentially impacting revenue recognition.",
+                    "If a repurchase provision prevents control of a good from transferring to the customer, the transaction may be accounted for as a lease under ASC 842.",
+                    "Examples of repurchase provisions include forward or call options that allow or require the seller to repurchase the asset, influencing whether the transaction is treated as a sale or lease.",
+                    "Further details on repurchase agreements and their implications on lease accounting can be found in section 7.3 of the Financial Reporting Developments publication on ASC 606."
+                ]
+            }
+        }
+    },
+    "1.2": {
+        "title": "Determining whether an arrangement contains a lease",
+        "highlights": [
+            "A lease is defined as a contract that conveys the right to control the use of an identified asset for a period of time in exchange for consideration. This includes assessing whether the customer has the right to obtain economic benefits and direct the use of the asset.",
+            "Entities must determine if a contract is or contains a lease at inception, considering all relevant facts and circumstances, regardless of the contract's label. This involves analyzing whether the arrangement conveys control over the asset.",
+            "If a customer has control over the asset for only part of the contract term, the contract contains a lease for that portion. Joint operations or arrangements must also be assessed for control over the asset.",
+            "A decision-making flowchart is provided to guide entities in determining whether an arrangement contains a lease, focusing on identified assets, economic benefits, and the right to direct asset use."
+        ],
+        "sub_sections": {
+            "1.2.1": {
+                "title": "Identified asset",
+                "highlights": [
+                    "An identified asset in a lease can be explicitly specified in a contract or implicitly specified by being the only asset available to fulfill the contract's requirements, as illustrated by examples such as a uniquely designed railcar or a single power plant owned by a special-purpose entity.",
+                    "A physically distinct portion of a larger asset, such as a floor of a building or a segment of a pipeline, can also be considered an identified asset if it is dedicated to a single customer, providing them with exclusive use and economic benefits.",
+                    "Capacity portions of an asset that are not physically distinct, like a portion of a fiber optic cable, are not considered identified assets unless they represent substantially all of the asset's capacity, granting the customer nearly all economic benefits.",
+                    "The term 'substantially all' is not explicitly defined in ASC 842, but guidance suggests that 90% or more of an asset's fair value could be considered substantially all, which is relevant for determining lease classification and identified assets."
+                ],
+                "sub_sections": {
+                    "1.2.1.1": {
+                        "title": "Substantive substitution rights",
+                        "highlights": [
+                            "A supplier's substitution right is considered substantive if the supplier has both the practical ability to substitute alternative assets throughout the period of use and would benefit economically from doing so. This means the economic benefits of substitution must exceed the costs.",
+                            "The evaluation of whether a substitution right is substantive is based on the facts and circumstances at the inception of the contract, excluding unlikely future events. This ensures that the assessment is grounded in realistic expectations at the contract's start.",
+                            "If the asset is located at the customer's premises, substitution costs are generally higher, which may affect the economic benefit analysis. If a customer cannot determine the substantiveness of a substitution right, it is presumed not substantive unless evidence suggests otherwise.",
+                            "Substitution rights related to repairs, maintenance, or technical upgrades do not constitute substantive substitution rights. Additionally, substitution rights that can only be exercised after a specific date or event are not considered substantive."
+                        ]
+                    }
+                }
+            },
+            "1.2.2": {
+                "title": "Right to control the use of the identified asset",
+                "highlights": [
+                    "A contract conveys the right to control the use of an identified asset if the customer has both the right to obtain substantially all economic benefits from the asset and the right to direct its use throughout the period of use.",
+                    "If the customer controls the asset for only part of the contract term, the contract contains a lease for that portion, as per ASC 842-10-15-5.",
+                    "Illustration 1-6 provides scenarios where control is assessed: Scenario A involves a contractor with exclusive use of a crane, concluding control due to economic benefits and directing use despite operational restrictions.",
+                    "Scenario B involves a consumer products entity with a dedicated production line, concluding control due to exclusive use and decision-making on production, despite the vendor operating and maintaining the line."
+                ],
+                "sub_sections": {
+                    "1.2.2.1": {
+                        "title": "Right to obtain substantially all of the economic benefits from the use of the identified asset",
+                        "highlights": [
+                            "A customer must have the right to obtain substantially all of the economic benefits from the use of an identified asset to control its use. This includes exclusive use and the ability to derive primary outputs, by-products, and potential cash flows from the asset.",
+                            "The assessment of economic benefits should consider the scope of the customer's right to use the asset as defined in the contract, including any territorial or usage limitations.",
+                            "Payments made to the supplier as a portion of cash flows derived from the asset's use are considered part of the economic benefits obtained by the customer, not a limitation on obtaining those benefits.",
+                            "The term 'substantially all' is not explicitly defined in ASC 842, but it generally refers to the majority of economic benefits derived from the use of the asset, excluding benefits from ownership like tax advantages."
+                        ]
+                    },
+                    "1.2.2.2": {
+                        "title": "Right to direct the use of the identified asset",
+                        "highlights": [
+                            "A customer has the right to direct the use of an identified asset if they can determine how and for what purpose the asset is used throughout the period of use, or if these decisions are predetermined and the customer either operates the asset or designed it to predetermine its use.",
+                            "Decision-making rights that allow a customer to change the type, timing, location, or quantity of output from an asset are considered as granting the right to direct the asset's use. Conversely, rights limited to operating or maintaining the asset do not grant this right.",
+                            "In cases where the use of an asset is predetermined by design or contractual restrictions, a customer may still have the right to direct its use if they designed the asset or have the right to operate it without the supplier altering the instructions.",
+                            "Examples illustrate scenarios where contracts either contain or do not contain a lease, based on whether the customer has control over the asset's use, such as in energy contracts where the design or operational control of a power plant determines lease classification."
+                        ]
+                    },
+                    "1.2.2.3": {
+                        "title": "Effect of protective rights on the right to direct the use of the identified asset",
+                        "highlights": [
+                            "Protective rights in a lease contract are designed to safeguard the supplier's interests, such as compliance with laws or protection of the asset, without preventing the customer from directing the asset's use.",
+                            "These rights may include limitations on the amount of use, geographic restrictions, or specific operating practices, but they do not negate the customer's right to direct the asset's use.",
+                            "An example illustrates that even with protective rights, the customer retains the ability to decide how, when, and where to use the asset, as long as these decisions are within the contractual limitations.",
+                            "The presence of protective rights does not affect the determination of whether the customer has the right to direct the use of the asset, as these rights merely define the scope of use."
+                        ]
+                    }
+                }
+            },
+            "1.2.3": {
+                "title": "Leases involving joint arrangements",
+                "highlights": [
+                    "Joint arrangements, common in extractive industries, involve multiple parties, including operators and nonoperators, working together under a joint operating agreement to develop or operate a property. These arrangements require careful evaluation to determine if they contain a lease.",
+                    "When a supplier contracts directly with an operator, a two-step assessment is necessary to determine if the operator controls the use of an identified asset, and if a sublease exists to the joint arrangement. If the operator controls the asset, they recognize a right-of-use asset and lease liability.",
+                    "If a supplier contracts directly with the joint arrangement, the arrangement must be evaluated as a single customer to determine control over the asset. If control is established, a lease is recognized, and the supplier applies lessor accounting.",
+                    "Illustrative examples, such as Upstream Co.'s lease of a drilling rig, demonstrate scenarios where the operator may have control over an asset without creating a sublease to the joint arrangement, affecting how right-of-use assets and lease liabilities are recognized."
+                ]
+            }
+        }
+    },
+    "9": {
+        "title": "Other considerations",
+        "highlights": [
+            "No substantive rules found in this section."
+        ],
+        "sub_sections": {
+            "9.1": {
+                "title": "Related party leasing transactions",
+                "highlights": [
+                    "Related party leases must be classified based on the legally enforceable terms and conditions, similar to leases between unrelated parties, except for those under common control using a practical expedient.",
+                    "Both lessees and lessors are required to disclose related party lease transactions in accordance with ASC 850, ensuring transparency about the nature and effects of these transactions on financial statements.",
+                    "The transition guidance specifies that, except for certain common control leases, related party leases should follow the same classification and accounting rules as unrelated party leases starting December 16, 2023.",
+                    "ASC 842 emphasizes that disclosures should not imply arm's length transactions unless substantiated, and related party sale and leaseback transactions should follow specific guidance under ASC 842-40."
+                ],
+                "sub_sections": {
+                    "9.1.1": {
+                        "title": "Practical expedient to use the written terms and conditions of common control arrangements",
+                        "highlights": [
+                            "ASC 842 provides a practical expedient for non-public entities, not-for-profit conduit bond obligors, and certain employee benefit plans to use written terms and conditions of related party arrangements under common control to determine if a lease exists, rather than relying on legally enforceable terms.",
+                            "If no written terms exist, entities must determine if a lease exists using legally enforceable terms. This practical expedient can be elected on an arrangement-by-arrangement basis, regardless of the nature of the other commonly controlled entity.",
+                            "When arrangements are no longer between entities under common control, entities must reassess the lease status using legally enforceable terms and apply modification or derecognition requirements as necessary.",
+                            "ASU 2023-01 impacts how lessees amortize leasehold improvements in common control leases and provides guidance on accounting for profit or loss upon derecognition of lease-related assets and liabilities."
+                        ]
+                    }
+                }
+            },
+            "9.2": {
+                "title": "Leases involving variable interest entities",
+                "highlights": [
+                    "ASC 810 outlines provisions for consolidating entities classified as variable interest entities (VIEs), which are entities that cannot finance their activities without additional support, lack controlling financial interest, or have non-substantive voting rights.",
+                    "Examples of arrangements that may involve VIEs include build-to-suit arrangements, leases with lessee guarantees of residual values, fixed-price purchase or renewal options, sale and leaseback transactions, Enhanced Equipment Trust Certificates, and sales of property under operating leases.",
+                    "Determining whether a lease involves a VIE requires applying the Variable Interest Model's provisions in ASC 810 and consulting further guidance such as the Financial Reporting Developments (FRD) on Consolidation."
+                ]
+            },
+            "9.3": {
+                "title": "Short payments (added July 2024)",
+                "highlights": [
+                    "Short payments occur when lessees choose not to pay certain lease obligations without a rent concession from the lessor, either intending to pay later or negotiating forgiveness.",
+                    "If deferment is not contractually permitted, lessees must continue to recognize lease expenses and liabilities, as the lease terms remain unchanged despite short payments.",
+                    "Lessors may continue recognizing lease revenue for operating leases despite short payments but must assess the impact on collectibility and potential impairment for sales-type or direct financing leases.",
+                    "The document references additional sections for detailed guidance on operating leases and credit losses related to sales-type and direct financing leases."
+                ]
+            }
+        }
+    },
+    "C": {
+        "title": "Illustrations from ASC 842 on the application of the definition of a lease",
+        "highlights": [
+            "ASC 842 provides illustrative examples to help determine whether an arrangement contains a lease, as defined by the standard.",
+            "These examples are crucial for understanding how to apply the definition of a lease in practical scenarios, ensuring compliance with ASC 842.",
+            "The illustrations are linked to section 1.2, which details the criteria and considerations for identifying a lease within an arrangement."
+        ]
+    },
+    "C1": {
+        "title": "Example 1 \u2013 Rail cars",
+        "highlights": [
+            "In Case A, the contract contains a lease because the Customer has the right to use 10 specified rail cars for 5 years, with control over their use, including decisions on when, where, and how they are used, despite some restrictions on cargo types.",
+            "The rail cars are identified assets as they are explicitly specified in the contract and can only be substituted by the Supplier for maintenance or repair, not for operational reasons.",
+            "In Case B, the contract does not contain a lease because the Supplier retains control over the rail cars and engines, with the ability to substitute them at will, and the Customer does not have the right to direct their use or obtain substantially all economic benefits from them.",
+            "The distinction between the two cases hinges on the control and substitution rights: Case A grants the Customer control over identified assets, while Case B allows the Supplier to substitute assets, indicating a service contract rather than a lease."
+        ]
+    },
+    "C2": {
+        "title": "Example 2 \u2013 Concession space",
+        "highlights": [
+            "The contract between the coffee company and the airport operator does not constitute a lease under ASC 842 because there is no identified asset; the space can be changed at the supplier's discretion.",
+            "The supplier has the substantive right to substitute the space used by the customer, as they can change the location at any time without the customer's approval, and there are minimal costs involved in doing so.",
+            "The supplier benefits economically from substituting the space, as it allows them to optimize the use of available space in the airport to adapt to changing circumstances.",
+            "The customer's control is limited to its own kiosk, which is not considered an identified asset in the context of the lease agreement."
+        ]
+    },
+    "C3": {
+        "title": "Example 3 \u2013 Fiber-optic cable",
+        "highlights": [
+            "The contract in Case A is determined to contain a lease because the customer has the right to use three specified, physically distinct dark fibers for 15 years, with control over their use, including decisions about lighting and data transmission.",
+            "The customer in Case A obtains substantially all economic benefits from the fibers and directs their use, while the supplier's role is limited to maintenance and repairs, which does not constitute control over the fibers.",
+            "In Case B, the contract does not contain a lease as the customer is granted a specified capacity within a cable rather than control over distinct fibers, and the supplier retains control over data transmission decisions.",
+            "The distinction between a lease and non-lease in these cases hinges on whether the customer has control over a specified, physically distinct asset and can direct its use and obtain its economic benefits."
+        ]
+    },
+    "C4": {
+        "title": "Example 4 \u2013 Retail unit",
+        "highlights": [
+            "The contract grants the Customer the right to use a specified retail unit for five years, with the Supplier having a limited and non-substantive right to substitute the unit under unlikely circumstances.",
+            "The Customer controls the use of the retail unit, making decisions about operations, such as product mix and pricing, and retains the economic benefits from its use, despite making variable payments to the Supplier based on sales.",
+            "The Supplier provides additional services like cleaning, security, and advertising, but these do not affect the Customer's control over the retail unit or its use.",
+            "The arrangement is classified as a lease because the Customer has the right to control the use of the identified asset, Retail Unit A, throughout the contract term."
+        ]
+    },
+    "C5": {
+        "title": "Example 5 \u2013 Truck rental",
+        "highlights": [
+            "The contract involves a lease for a truck rental where the customer has the right to use the truck for a specified trip from New York to San Francisco, with no substitution rights for the supplier.",
+            "The customer has control over the truck's use, including decisions about speed, route, and rest stops, and is responsible for driving the truck, indicating control over the asset during the lease term.",
+            "The truck is an identified asset as it is explicitly specified in the contract, and the supplier cannot substitute it, fulfilling the criteria for a lease under ASC 842.",
+            "The lease is classified as a short-term lease since the duration is one week, which impacts the accounting treatment under ASC 842."
+        ]
+    },
+    "C6": {
+        "title": "Example 6 \u2013 Ship",
+        "highlights": [
+            "In Case A, the contract does not contain a lease because, although the ship is an identified asset and the customer obtains economic benefits from its use, the customer does not have the right to control the ship's use. The ship's use is predetermined by the contract, and the customer cannot direct how or for what purpose the ship is used.",
+            "In Case B, the contract contains a lease as the customer has the right to use the ship for a specified period and can control its use. The customer decides what cargo to transport and the ship's destinations, within certain restrictions, demonstrating control over the ship's use.",
+            "Both cases involve an identified asset, as the ship is explicitly specified in the contract, and the supplier does not have substitution rights. However, the distinction between a lease and non-lease hinges on the customer's control over the asset.",
+            "The supplier is responsible for operating and maintaining the ship in both cases, but this does not affect the determination of whether the contract contains a lease, as the focus is on the customer's rights to direct the use of the ship."
+        ]
+    },
+    "C7": {
+        "title": "Example 7 \u2013 Aircraft",
+        "highlights": [
+            "The contract involves a lease agreement where the Customer has the right to use a specified aircraft for two years, with the aircraft being explicitly identified in the contract.",
+            "Despite the Supplier's ability to substitute the aircraft, the substitution right is not substantive due to significant costs involved in meeting the contract's specifications, ensuring the Customer's control over the identified asset.",
+            "The Customer controls the use of the aircraft by determining its flight schedule, destinations, and the passengers and cargo it carries, thus obtaining substantially all economic benefits from its use.",
+            "The Supplier operates the aircraft but does not control its use, as the Customer makes all relevant decisions regarding the aircraft's operation within the contractual and legal restrictions."
+        ]
+    },
+    "C8": {
+        "title": "Example 8 \u2013 Contract for shirts",
+        "highlights": [
+            "The contract between Customer and Supplier specifies the type, quality, and quantity of shirts to be purchased over a three-year period, but does not constitute a lease under ASC 842.",
+            "Supplier's factory is the identified asset for fulfilling the contract, but Customer does not control the factory's use, as Supplier retains decision-making authority over its operations and output allocation.",
+            "Customer lacks the right to obtain substantially all economic benefits from the factory, as Supplier can use the factory to fulfill other contracts, indicating no control over the asset.",
+            "The absence of control by Customer is further evidenced by their inability to direct how and for what purpose the factory is used, with Supplier maintaining these rights."
+        ]
+    },
+    "C9": {
+        "title": "Example 9 \u2013 Contract for network services",
+        "highlights": [
+            "In Case A, the contract for network services does not contain a lease because the customer does not control the use of the servers. The supplier retains control over the servers, including decisions on configuration and use, to meet the service level specified by the customer.",
+            "The contract in Case A is classified as a service contract, as the customer's rights are limited to specifying the level of network services before the period of use, without any control over the servers during the contract term.",
+            "In Case B, the contract contains a lease because the customer has the right to use an identified server for three years, with the ability to make decisions about its use and integration into operations.",
+            "The customer in Case B has control over the server, as they can decide how to use it and obtain substantially all economic benefits from its use, with the supplier only substituting the server in case of malfunction."
+        ]
+    }
+}

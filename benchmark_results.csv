@@ -1,0 +1,3 @@
+Model,Execution Time (s),Input Tokens,Output Tokens,Input Cost (USD),Output Cost (USD),Total Cost (USD),Sections
+TypeSafe Jev (System One),0.67,36627,0,0.0015383340000000001,0.0,0.0015383340000000001,"['1.2', '1.2.1', '1.2.2', '1.2.2.1', '1.2.2.2', '1.2.2.3', 'C6']"
+OpenAI GPT-5 (Snowflake Cortex),16.51,32773,45,0.0491595,0.00054,0.0496995,"['1.2.1', '1.2.1.1', '1.2.2', '1.2.2.1', '1.2.2.2', 'C6']"
